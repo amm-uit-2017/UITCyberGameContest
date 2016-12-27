@@ -1,0 +1,6 @@
+﻿Crack password (Cisco-Ez )  50 points
+
+Find the flag ??
+service password-encryption
+hostname Cisco-1941
+enable password 7 0827404F0E02264656085C3B387B111C1607630E

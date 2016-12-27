@@ -1,0 +1,12 @@
+﻿Dance with PlayFair (50 )
+
+Encrypted Message :: lqbf{tkq_ondfq_dsh}V
+
+Reference Table is shown here ..
+	A B C D E
+	F G H J K
+	L M N O P
+	Q R S T U
+	V W X Y Z
+
+

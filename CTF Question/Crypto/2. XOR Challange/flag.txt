@@ -1,0 +1,1 @@
+Flag{easy_for_xor_crypto}

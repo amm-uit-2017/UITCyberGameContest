@@ -1,0 +1,7 @@
+Substitution Cipher (100)
+
+Substitute the given ciphertext letters with the "new" alphabet "prgyanbcdefhijklmnoqstuvwxz". Proof of concept ??The answer format is flag{xxxx}.
+
+Cipher Text ::>dhkuagsn
+
+

@@ -1,0 +1,5 @@
+For type 7 password :
+http://www.ifm.net.nz/cookbooks/passwordcracker.html
+
+For type 5 password :
+https://www.ifm.net.nz/cookbooks/cisco-ios-enable-secret-password-cracker.html

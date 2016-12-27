@@ -1,0 +1,12 @@
+Description ::
+Double Transposition
+You have an encrypted message .The message is below.
+Encrypted Message :: [-58,-58,12,7,14,33,1,-6,7,12,13,18,13,18,35,7,5,25,25,-58]
+Can you guess what is the flag ?? (5r*4c=20 )
+Permute for Row ==>(4,2,1,5,3)
+Permute for Column=>(3,1,4,2)
+
+Notes ::
+The output  tuple is operating with x (add or sum )
+The first letter of decrypt message may be small english letter "f".
+r = row , c = column

@@ -1,0 +1,10 @@
+Cipher Headache  (100 points)
+
+Use substitution cipher ::
+
+We substitute the given ciphertext letters with the "new" alphabet 'prgyanbcdefhijklmnoqstuvwxz' .Proof of concept ??
+
+Your encrypted message is => [dhkuagsn
+
+]
+Flag is flag{proof_your_concept}

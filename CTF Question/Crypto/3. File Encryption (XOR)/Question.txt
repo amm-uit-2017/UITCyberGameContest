@@ -1,0 +1,6 @@
+File Encryption (XOR) 
+
+The raw binary is encrypted with XOR encoding scheme.You need to encrypt and
+find the flag . Hints ( Today date is very nice)
+
+Notes :: XOR key should be between 0 and 256.

@@ -1,0 +1,6 @@
+Permute and Decode (100)
+
+d => ["3tKdX","N0LWF","ZmxhZ","TaU1w","TGUtU"] and append 
+at the end of list  "3RlZ30=".
+
+Find the flag ?? 
