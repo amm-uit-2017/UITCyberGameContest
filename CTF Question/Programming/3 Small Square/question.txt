@@ -1,0 +1,11 @@
+You start in square E6 facing East. Move 3 squares forward.
+Turn 90 degrees clockwise, move two squares forward .
+Turn 180 degrees anticlockwise. Move 5 squares forward .
+Turn 90 degrees anticlockwise. Move 4 squares forwards .
+Turn 90 degrees clockwise. Move two squares backwards.
+What is the Y COORDINATE of the square you are now in?
+You flag format is only one digit => n ( n is between 1 to 10 )
+
+
+<a href="/public/files/squaresSMALLER.zip">Image is here</a>
+

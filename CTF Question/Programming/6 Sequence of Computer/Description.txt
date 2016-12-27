@@ -1,0 +1,11 @@
+﻿Sequence of computer (Point 50)
+
+Three computers were lined up in a row. The Dell was to the left of the Viglen but not necessarily next to it. The blue computer was to the right of the white computer. The black computer was to the left of the Hewlett Packard PC. The Hewlett Packard was to the left of the Viglen.
+What was the order of the computers?
+
+Notes :: Flag format is initial name of Computer Vendor name 
+Hewlett Packard ==>HP
+Dell ==> D
+Viglen ==>V
+
+Eg => A,B,C

@@ -1,0 +1,9 @@
+Flight Ticket (100)
+Flight tickets for an airline are coded as follows:
+Yangon Destinations are coded YGN, Flights to Tanintharyi  are coded T , Rakhine Destinations RK, and Kayah State are coded as K.
+If a flight takes place between 5am and 10 pm the same code are used but with lower case letters (D,C,B,A)
+Male passengers are coded M and female passengers are coded L. Children are coded  lower case (z.i)
+Meals are coded as follows:
+Snack H, Ice coffee C , Apple juice as A. For child , codes are in lower case (g,h,k)
+First Class passengers are coded FC , Business Class B and economy E and Worker-class as W.
+What would the code be for a flight to Loikaw at 23hour for an apple-juice 20 years old girl travelling Worker-class?

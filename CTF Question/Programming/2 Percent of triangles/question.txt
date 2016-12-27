@@ -1,0 +1,6 @@
+Percent of triangles (50) 
+
+What percentage of this shape is blue (to nearest percent)?
+The flag format is : n% [ n between 1 to 100 ]
+
+<a href="/public/files/triangles.zip">Image is here</a>
