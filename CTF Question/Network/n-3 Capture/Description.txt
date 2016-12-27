@@ -1,0 +1,16 @@
+Capture   [ Point 200 (Medium) ]
+
+Analyze carefully , answer in near you...Good Luck
+flag format is as follow:
+flag {a,b,c,d,e,f,g,h}
+Notes :: All are small letter
+a = template name
+b = remote management protocol
+c = web browsing protocol
+d = username
+e = password
+f = GET method request_url (http://xxxxx)
+g = redirect url (http://xxxxx)
+h = user or admin panel (use user or admin) 
+
+<a href="/public/files/Cap Modified.zip">Download file here</a>
