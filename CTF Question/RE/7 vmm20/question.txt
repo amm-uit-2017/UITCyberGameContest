@@ -1,0 +1,8 @@
+vmm200 (100)
+
+Run the program "runme.exe" in <a href="runme.zip">runme.zip</a>,
+collect part of flag, and construct the complete flag.
+<br>
+
+
+<a href="/public/files/runme.zip">Download here the file runme.zip</a>

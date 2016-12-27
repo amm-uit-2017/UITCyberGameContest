@@ -1,0 +1,7 @@
+What is Answer! (50) +first score (50)
+
+The program hide the output . Can you find it ??
+The standard input is 155. What is the standard output??
+flag format is here =>flag{155}
+
+<a href="/public/files/HdOutput.zip">Download the file here!</a>
