@@ -1,0 +1,37 @@
+programming ရတယ္႔သူမ်ားအတြက္က..ဒီလိုေလးေရးေပါ႔ေနာ္......
+$python -c "print 'flag{%x}'%(int('1010101111010101111',2)+10201999)"
+
+flag is here.
+flag{a10a3e}
+
+တကယ္လို႔..programming မရရင္....
+ဒီလင္႔ကိုသြားလိုက္...binary ေတြကို..အေၿခတစ္ဆယ္ေၿပာင္းၿပစ္လိုက္...
+http://www.unitconversion.org/numbers/binary-to-base-10-conversion.html
+ရလာတယ္႔ အေၿဖကဒါမ်ိဳးေလး...
+
+351919
+
+ၿပီးရင္...ေနာက္က 10201999 နဲ႔ေပါင္းလိုက္ေလ....
+
+351919+10201999 = 10553918
+
+ေမးခြန္းကေမးတာက..အေၿဖကို...hexadecimal နဲ႔ၿပခိုင္းတာေလ..ဆိုေတာ႔ကာ.....
+Base10 ကေန..base(16) hex ကုိဒီလင္႔မွာသြားေၿပာင္းလိုက္...။
+http://www.translatorscafe.com/unit-converter/en/numbers/13-4/
+
+အေၿဖကဒီလိုေလးရလာမယ္.....=====> A10A3E
+
+ေမးခြန္းက..ဒီလိုေလးေၿပာထားေသးတယ္....show the answer as a unsigned hexadecimal in lower case.
+ၿပီးရင္...flag format ၀င္ေအာင္လုပ္ရဦးမယ္ေလ...
+
+flag{a10a3e}
+
+
+ဘာၾကည္႔ေနတာတုန္း....Score-server ကုိ...submit လုပ္လိုက္ေတာ႔ေလ...အဲမွာ.first score ရမွာ..ငိငိ...
+
+Hadesko 
+27/12/2016
+5:05PM
+
+
+
