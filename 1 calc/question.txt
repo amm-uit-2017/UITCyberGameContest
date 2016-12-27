@@ -1,5 +1,0 @@
-Calculate it  (50)
-
-Add an unsigned binary number 1010101111010101111 to an unsigned decimal 10201999.
-And show the answer as a unsigned hexadecimal in lower case.
-
